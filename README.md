@@ -4,7 +4,7 @@ Windows Trojan Virus that is and will Crash Windows by eating up resources insid
 
 Please Read The Following Description 
 
-Ms P-1A47 Created to make Windows Operating System unuseable in any capacity please use inside of Virtual machine or a safe sandbox do not use inside of a main operating system 
+Ms P-1A47 Created to make Windows Operating System unuseable in any capacity please use inside of Virtual machine or a safe sandbox do not use inside of a main operating system Also Create a Folder for the Files then Create a Shortcut for the Exe File then run as Administrator.
 
 
 Features of the Virus and What to expect 
